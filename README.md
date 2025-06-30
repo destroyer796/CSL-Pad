@@ -17,12 +17,15 @@ A Hackpad made for Hack Club designed to be used with a Fanatec CDL DD wheelbase
  - 2x M6x16 SHCS Screws
 
 <img src="https://github.com/destroyer796/CSL-Pad/blob/main/media/CSLPadFullScene.PNG"/>
+
 Project rendering
 
 <img src="https://github.com/destroyer796/CSL-Pad/blob/main/media/CSL%20Pad%20v3.gif"/>
+
 Exploded view
 
 <img src="https://github.com/destroyer796/CSL-Pad/blob/main/media/CSLPadSchematic.PNG"/>
+
 Schematic
 
 <img src="https://github.com/destroyer796/CSL-Pad/blob/main/media/CSLPadPCB.PNG"/>
