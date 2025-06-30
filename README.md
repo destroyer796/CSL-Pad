@@ -1,5 +1,5 @@
 # CSL-Pad
-A Hackpad made for Hack Club designed to be used with a Fanatec CDL DD wheelbase
+A [Hackpad](https://hackpad.hackclub.com/) made for [Hack Club](https://hackclub.com/) designed to be used with a Fanatec CDL DD wheelbase
 
 ## BOM:
 Provided by Hack Club as a part of the Hackpad project:
